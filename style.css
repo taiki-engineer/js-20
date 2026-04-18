@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+}
+
+.calender {
+    width: 50%;
+}
+
+.todo {
+    width: 50%;
+}
+
